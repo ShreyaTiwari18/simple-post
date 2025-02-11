@@ -1,2 +1,2 @@
 # simple-post
-host link: https://github.com/ShreyaTiwari18/simple-post.git
+host link: https://shreya18-post.netlify.app/
